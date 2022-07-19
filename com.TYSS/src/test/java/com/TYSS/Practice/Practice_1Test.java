@@ -27,11 +27,16 @@ public class Practice_1Test {
 		System.out.println(res);
 	}
 	@Test(enabled = false)
-	public void test3() {
+	public void test2() {
 		int a=100;
 		int b=10;
 		int c=a/b;
 		System.out.println(c);
+	}
+	@Test
+	public void test3()
+	{
+		System.out.println("hello");
 	}
 
 }
