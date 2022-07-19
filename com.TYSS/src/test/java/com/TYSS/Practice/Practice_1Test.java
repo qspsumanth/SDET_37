@@ -36,7 +36,7 @@ public class Practice_1Test {
 	@Test
 	public void test3()
 	{
-		System.out.println("hello");
+		System.out.println("hello1");
 	}
 
 }
