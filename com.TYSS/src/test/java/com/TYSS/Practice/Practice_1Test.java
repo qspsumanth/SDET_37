@@ -37,7 +37,7 @@ public class Practice_1Test {
 	public void test3()
 	{
 		System.out.println("hello1");
-		System.out.println("Biiiiiii")
+		System.out.println("Biiiiiii Cuuuuuuu")
 	}
 
 }
